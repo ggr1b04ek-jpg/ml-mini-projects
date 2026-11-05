@@ -20,6 +20,6 @@ ml-mini-projects/
 │   ├── project-1.py
 │   ├── README.md
 │   └── requirements.txt
-├── mini-project-/      # Второй мини-проект
+├── mini-project-2/      # Второй мини-проект
 │   ├── ...
 └── README.md               # Этот файл
